@@ -1,0 +1,1 @@
+Realice un programa en C++ que lea 5 números, que sume los múltiplos de 3, reste los pares, multiplique los impares y divida los valores negativos
