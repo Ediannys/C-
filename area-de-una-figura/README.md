@@ -1,0 +1,1 @@
+Realice un programa que determine el area de una figura seleccionada (cuadrado, rectangulo, triangulo, circulo)
