@@ -1,0 +1,1 @@
+Programa en C++ que te dice los divisores de un número y si es primo o compuesto
