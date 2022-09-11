@@ -1,0 +1,1 @@
+Hacer un programa en c++ que nos diga si un triángulo es rectángulo, acutángulo u obtusángulo
